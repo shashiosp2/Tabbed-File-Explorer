@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tabbed File Explorer</string>
+    <string name="cd_open_drawer">Open navigation drawer</string>
+    <string name="cd_toggle_theme">Toggle light and dark theme</string>
+    <string name="cd_toggle_split">Toggle dual-pane split view</string>
+    <string name="cd_new_tab">Open new tab</string>
+    <string name="cd_close_tab">Close tab</string>
+    <string name="cd_navigate_up">Navigate to parent folder</string>
+    <string name="cd_search">Search files</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_view_mode">Switch view layout</string>
+    <string name="cd_sort_options">Sort options</string>
+    <string name="cd_create_new">Create new file or folder</string>
+    <string name="cd_close_viewer">Close viewer</string>
+    <string name="cd_save_file">Save file</string>
+    <string name="cd_copy_path">Copy path</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_forward">Go forward</string>
+</resources>

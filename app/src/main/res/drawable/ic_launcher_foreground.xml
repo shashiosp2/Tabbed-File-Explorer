@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Secondary top tab (right) -->
+    <path
+        android:fillColor="#FF0284C7"
+        android:pathData="M56,31 L73,31 C75.2,31 77,32.8 77,35 L77,42 L56,42 Z" />
+    <!-- Primary active top tab (left) -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M28,31 L50,31 C52.2,31 54,32.8 54,35 L54,42 L28,42 Z" />
+    <!-- Main bold folder body -->
+    <path
+        android:fillColor="#FFF8FAFC"
+        android:pathData="M26,40 L82,40 C84.2,40 86,41.8 86,44 L86,74 C86,76.2 84.2,78 82,78 L26,78 C23.8,78 22,76.2 22,74 L22,44 C22,41.8 23.8,40 26,40 Z" />
+    <!-- Split-pane divider and terminal accent inside folder -->
+    <path
+        android:fillColor="#FF0EA5E9"
+        android:pathData="M30,49 L51,49 C52.1,49 53,49.9 53,51 L53,69 C53,70.1 52.1,71 51,71 L30,71 C28.9,71 28,70.1 28,69 L28,51 C28,49.9 28.9,49 30,49 Z" />
+    <path
+        android:fillColor="#FF1E293B"
+        android:pathData="M57,49 L78,49 C79.1,49 80,49.9 80,51 L80,56 C80,57.1 79.1,58 78,58 L57,58 C55.9,58 55,57.1 55,56 L55,51 C55,49.9 55.9,49 57,49 Z" />
+    <path
+        android:fillColor="#FF64748B"
+        android:pathData="M57,62 L78,62 C79.1,62 80,62.9 80,64 L80,69 C80,70.1 79.1,71 78,71 L57,71 C55.9,71 55,70.1 55,69 L55,64 C55,62.9 55.9,62 57,62 Z" />
+</vector>

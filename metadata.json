@@ -1,0 +1,6 @@
+{
+  "name": "Tabbed File Explorer",
+  "description": "Power-user Material 3 tabbed file explorer with workspaces, dual-pane split view, epoch-timestamped /sdcard/.Trash, built-in code/hex/SQLite/JSON/CSV viewers, storage analyzer, AES vault, and LAN HTTP file server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
